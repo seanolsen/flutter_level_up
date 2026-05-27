@@ -1,6 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import '../../../_converters/int2bool_converter.dart';
 import '../../../_converters/object_camera_allow2bool_converter.dart';
 import '../../../_converters/string2int_converter.dart';
 import 'profile_partial_dto.dart';
